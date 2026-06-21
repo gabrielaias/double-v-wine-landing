@@ -7,7 +7,7 @@ Landing page moderna e responsiva desenvolvida para a marca de vinhos **Double V
 
 ## 📸 Preview
 
-<!-- Adicione aqui um print ou GIF da landing page -->
+![Double V Wine Landing Page](./hero.png)
 
 ## 💡 Sobre o projeto
 
